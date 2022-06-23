@@ -1,8 +1,0 @@
-# Logs
-logs
-*.log
-# Dependency directories
-node_modules/
-dist/
-.cache
-
